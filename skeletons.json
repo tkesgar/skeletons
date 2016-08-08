@@ -15,6 +15,13 @@
       "alias": "react"
     },
     {
+      "title": "Brunch Plain Simple",
+      "url": "tkesgar/brunch-plain-simple",
+      "technologies": "Babel, ES6, React, PostCSS",
+      "description": "Simple skeleton with ES6, PostCSS, simple config, and simple example.",
+      "alias": "plainsimple"
+    },
+    {
       "title": "Brunch with Elm",
       "url": "alaister/brunch-with-elm",
       "technologies": "Elm, Sass",
